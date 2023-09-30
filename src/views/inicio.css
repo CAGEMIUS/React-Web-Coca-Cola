@@ -1,0 +1,41 @@
+.cn-Container{
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .cn-Images{
+    justify-content: center;
+    border-radius: 30px;
+    height: 600px;
+    width: auto;
+    border: 2px solid black;
+  }
+
+  h3{
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  /* Media query para pantallas más pequeñas, por ejemplo, dispositivos móviles */
+  @media (max-width: 800px) {
+    .cn-Container {
+      margin-top: 15px; /* Ajusta el margen para pantallas más pequeñas */
+      text-align: center;
+    }
+  
+    .cn-Images {
+      display: inline-block; /* Cambia a un formato de bloque para un mejor ajuste en pantallas pequeñas */
+      border-radius: 15px; /* Ajusta el radio de borde para pantallas más pequeñas */
+      padding: 10px;
+      height: 225px;
+      width: 75vb;
+    }
+  }
+  
+  .cd-Container{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }

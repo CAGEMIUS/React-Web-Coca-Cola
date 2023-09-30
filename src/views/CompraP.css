@@ -1,0 +1,23 @@
+
+.cd-Container{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px;
+  }
+
+  .contenedor-flex {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+  }
+
+  .h4-Container{
+    text-align: center;
+    
+  }
+
+  .btn1{
+    background-color: red;
+  }

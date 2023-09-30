@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+.nv-Navbar{
+    background-color: #000000;
+    text-decoration:none;
+}
+.nav-link {
+    text-decoration: none;
+  }
+
+.nv-Image{
+    width: 150px;
+    margin-left: 100px;
+}
+
+.icon {
+    background-color: #ffffff;
+    margin-right: 50px;
+}
+
+.iconCar{
+    display: flex;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 30px;
+    color: #ffffff;
+}
+
+.nv-il{
+    margin-left: auto;
+    margin-top: 2px;
+}
+
+.h5-Navbar{
+    color: #ffffff;
+    font-size: 17px;
+    margin-top: 2px;
+    margin-right: 40px;
+    text-align: center;
+}
+
